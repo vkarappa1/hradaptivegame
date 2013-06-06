@@ -1,0 +1,56 @@
+2010-03-28  Kirit Saelensminde  <kirit@felspar.com>
+ GUI
+ - Implemented an options screen for turning vibrate and sounds
+   on and off
+ Sounds
+ - Added sounds for various game events.
+ Android market
+ - 0.5 released on Android Market
+ - 0.5.1 released on Android Market
+
+2010-03-27  Kirit Saelensminde  <kirit@felspar.com>
+ Game play
+ - Added vibrate to missile explosions. Bonus explosions
+   make longer vibrations.
+ - Added vibrate to the city explosions.
+ - Refactored city explosions so that they layer properly.
+ Licenses
+ - Added a new COPYING file.
+ GUI
+ - Focus now works properly so the up key and menu key pause
+   the game straight away.
+
+2010-03-19  Kirit Saelensminde  <kirit@felspar.com>
+ Marketplace release
+ - 0.4 released on Android Market
+
+2010-03-18  Kirit Saelensminde  <kirit@felspar.com>
+ Difficulty
+ - Corrected the algorithm for the player explosion sizes
+   near the bottom of the screen.
+ Game restart
+ - Implemented restarting of the game after game over.
+
+2010-03-18  Kirit Saelensminde  <kirit@felspar.com>
+ ChangeLog & GPLv3
+ - Added ChangeLog and GPL license text
+ Title page
+ - Improved instructions and split out copyright notice.
+
+2010-03-17  Kirit Saelensminde  <kirit@felspar.com>
+ Marketplace release
+ - 0.3 released on Android Market
+ Game play
+ - Tweaked missile intervals
+ - Implemented all hooks to enable the game to be paused.
+   This will be turned off for Market releases, but enables
+   screen shots to be taken much more easily.
+
+2010-03-16  Kirit Saelensminde  <kirit@felspar.com>
+ Marketplace release
+ - 0.2 released on Android Market
+ Orientation support
+ - The game now locks orientation when started, at least on one
+   phone. Thanks Adam Nyback.
+ Marketplace release
+ - First and second releases (0.1 and 0.2) to Android Market 
